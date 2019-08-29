@@ -44,4 +44,4 @@ The OpenHLTest python client is currently tested against Python versions 2.7.14 
    - install the latest OpenHLTest python client with "pip install --upgrade --no-cache-dir openhltest"
 
 ## Getting Started
-Once the Keysight OpenHLTest server is up and running you can use the provided [samples](https://github.com/OpenHLTest/keysight-server/samples) to get started.
+Once the Keysight OpenHLTest server is up and running you can use the provided [samples](https://github.com/OpenHLTest/keysight-server/tree/master/samples) to get started.
